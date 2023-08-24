@@ -6,4 +6,5 @@
     </style>
 
     <style name="Theme.Recaudos" parent="Base.Theme.Recaudos" />
-</resources>
+
+   </resources>
